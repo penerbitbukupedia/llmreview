@@ -139,11 +139,11 @@ Analisis naskah berikut untuk mengidentifikasi kemungkinan penggunaan LLM dalam 
 ### Contoh Spesifik:
 [Berikan 3-5 kutipan langsung yang menunjukkan ciri LLM]
 
-### Rekomendasi:
-- [ ] **RENDAH** (1-3): Kemungkinan kecil hasil LLM
-- [ ] **SEDANG** (4-6): Perlu investigasi lebih lanjut
-- [ ] **TINGGI** (7-8): Kemungkinan besar hasil LLM
-- [ ] **SANGAT TINGGI** (9-10): Hampir pasti hasil LLM
+**SKOR AKHIR DENGAN VERIFIKASI DATA:**
+- **LLM Detection Score**: [1-10]
+- **Data Authenticity Score**: [1-10] 
+- **Overall Credibility**: [1-10]
+- **Recommendation**: [ACCEPT/REVIEW/REJECT]
 
 ### Catatan Tambahan:
 [Observasi lain yang relevan]
